@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sawmon71293
 - 👀 I’m interested in web development and creations.
 - 🌱 I’m currently working on Online Learning Management System.
-- 💞️ I’m looking to collaborate with you.
+- 💞️ I’m looking forward to collaborating with you.
 - 📫 Reach me at sawmon71293@gmail.com
 
 <!---
