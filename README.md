@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sawmon71293
 - 👀 I’m interested in web development and creations.
-- 🌱 I’m currently working on MERN stack.
+- 🌱 I’m currently working on MERN Stack.
 - 💞️ I’m looking forward to collaborating with you.
 - 📫 Reach me at sawmon71293@gmail.com
 
