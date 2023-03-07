@@ -18,7 +18,7 @@
 <br>
 ---
 
-<img align="right" src="./images/working-hard.gif">
+<img align="right" src="./working-hard.gif">
 
 - 💻 All **my projects** are available [here.](https://github.com/sawmon71293?tab=repositories)
 
