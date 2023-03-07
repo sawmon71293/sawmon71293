@@ -18,8 +18,7 @@
 <br>
 ---
 
-<img align="right" src="![giphy (1)](https://user-images.githubusercontent.com/102650102/223486276-7aec98aa-0f08-41a5-8e2e-471b1a7b2a6c.gif)
-">
+<img align="right" src="./images/working-hard.gif">
 
 - 💻 All **my projects** are available [here.](https://github.com/sawmon71293?tab=repositories)
 
