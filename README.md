@@ -1,4 +1,3 @@
-
 <img src="./borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./animated-flame-01.gif" width="1.75%" align="left"/>
@@ -16,7 +15,6 @@
 <br>
 <br>
 <br>
----
 
 <img align="right" src="./working-hard.gif">
 
@@ -32,7 +30,6 @@
 
 </p>
 
-
 <br>
 <br>
 
@@ -47,6 +44,5 @@
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sawmon71293&custom_title=Saw Mon Han's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Saw Mon's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sawmon71293&custom_title=sawmon's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="sawmon's Github Activity Graph" width="100%">
 </div>
-
