@@ -11,14 +11,14 @@
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-   <img src="https://komarev.com/ghpvc/?username=sawmon&color=red">
+   <img src="https://komarev.com/ghpvc/?username=sawmon71293&color=red">
 </div>
 <br>
 <br>
 <br>
 ---
 
-<iframe align="right" src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img align="right" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 - 💻 All **my projects** are available [here.](https://github.com/sawmon71293?tab=repositories)
 
@@ -28,7 +28,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/saw-mon-han/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saw-mon-han/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saw Mon" height="30" width="40" /></a>
 
 </p>
 
@@ -42,11 +42,11 @@
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
 
-  <img src="https://streak-stats.demolab.com?user=sawmon&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sawmon&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=sawmon71293&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sawmon71293&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sawmon&custom_title=Saw Mon Han's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Saw Mon's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sawmon71293&custom_title=Saw Mon Han's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Saw Mon's Github Activity Graph" width="100%">
 </div>
 
