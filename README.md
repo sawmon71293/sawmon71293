@@ -22,13 +22,7 @@
 
 ### 🚀 Check out [my portfolio.](https://github.com/sawmon71293/personal-portfolio)
 
-### 📫 Connect with me:
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/saw-mon-han/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saw Mon" height="30" width="40" /></a>
-
-</p>
+### 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/saw-mon-han/)
 
 <br>
 <br>
