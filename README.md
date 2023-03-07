@@ -18,7 +18,7 @@
 
 <img align="right" src="./working-hard.gif">
 
-- 💻 All **my projects** are available [here.](https://github.com/sawmon71293?tab=repositories)
+### 💻 All **my projects** are available [here.](https://github.com/sawmon71293?tab=repositories)
 
 ### 🚀 Check out [my portfolio.](https://github.com/sawmon71293/personal-portfolio)
 
