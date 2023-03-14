@@ -31,8 +31,6 @@
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
-
   <img src="https://streak-stats.demolab.com?user=sawmon71293&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=sawmon71293&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
