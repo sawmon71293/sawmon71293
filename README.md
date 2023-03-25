@@ -1,11 +1,4 @@
-<img src="./borderseparator.gif" width="100%"/>
-<div align="center">
-  <img src="./animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Saw Mon+and+Welcome+to+my+Profile!" alt="Hey, I'm Saw Mon 
-  A full-stack web developer from Myanmar 🇮! animated typed out" width="90%" align="middle"/>
-  <img src="./animated-flame-01.gif" width="1.75%" align="right"/>
-</div>
-<img src="./borderseparator.gif" width="100%"/>
+
 <h3 align="center">A full-stack web developer from Myanmar </h3>
 
 <div align="center"> 
