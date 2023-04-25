@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1G8R1LjKIpFCorKgR4gcb_RTWLg7fP3rj/view?usp=share_link](https://drive.google.com/file/d/1G8R1LjKIpFCorKgR4gcb_RTWLg7fP3rj/view?usp=share_link)
 
-- ⚡ Fun fact **I sometimes can behave awkward if I am so shy.**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
