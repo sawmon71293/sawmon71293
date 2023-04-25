@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
-- 💬 Ask me about **react, Vanilla JavaScript, Java and C#**
+- 💬 Ask me about **React, Vanilla JavaScript, Java and C#**
 
 - 📫 How to reach me **sawmon71293@gmail.com**
 
