@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mon</h1>
-<h3 align="center">A passionate frontend developer from Burma</h3>
+<h3 align="center">A passionate full-stack developer from Burma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawmon71293&label=Profile%20views&color=0e75b6&style=flat" alt="sawmon71293" /> </p>
 
