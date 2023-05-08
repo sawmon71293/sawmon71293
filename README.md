@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [FishWatch](https://github.com/sawmon71293/react-capstone)
 
-- 🌱 I’m currently working on  **Front End Stack(HTML/CSS, React)**
+- 🌱 I’m currently grinding on  **Front End Stack(HTML/CSS, React)**
 
 - 👯 I’m looking to collaborate on [Learning Management System](https://github.com/sawmon71293/LMS)
 
