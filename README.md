@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at 
      [Portfolio](https://github.com/sawmon71293/Portfolio)
 
-- 📝 I regularly write articles on [Tech Articles](https://medium.com/](https://medium.com/)
+- 📝 I regularly write articles on [Tech Articles](https://medium.com/@sawmon71293_66590)
 
 - 💬 Ask me about **React, Vanilla JavaScript, Java and C#**
 
