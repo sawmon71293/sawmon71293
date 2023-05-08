@@ -11,17 +11,19 @@
 
 - 🌱 I’m currently grinding on  **Front End Stack(HTML/CSS, React)**
 
-- 👯 I’m looking to collaborate on [Learning Management System](https://github.com/sawmon71293/LMS)
+- 👯 I’m looking to collaborate on 
+     [Learning Management System](https://github.com/sawmon71293/LMS)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sawmon71293/Portfolio](https://github.com/sawmon71293/Portfolio)
+- 👨‍💻 All of my projects are available at 
+     [Portfolio](https://github.com/sawmon71293/Portfolio)
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly write articles on [Tech Articles](https://medium.com/](https://medium.com/)
 
 - 💬 Ask me about **React, Vanilla JavaScript, Java and C#**
 
 - 📫 How to reach me **sawmon71293@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G8R1LjKIpFCorKgR4gcb_RTWLg7fP3rj/view?usp=share_link](https://drive.google.com/file/d/1G8R1LjKIpFCorKgR4gcb_RTWLg7fP3rj/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1J5gZZCmdEUVF83uzAis53wRq3I5STpz9/view?usp=share_link)
 
 
 
