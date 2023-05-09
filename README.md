@@ -15,7 +15,7 @@
      [Learning Management System](https://github.com/sawmon71293/LMS)
 
 - 👨‍💻 All of my projects are available at 
-     [Portfolio](https://github.com/sawmon71293/Portfolio)
+     [Portfolio](https://sawmon-portfolio.onrender.com/)
 
 - 📝 I regularly write articles on [Tech Articles](https://medium.com/@sawmon71293_66590)
 
