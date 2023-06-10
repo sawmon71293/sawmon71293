@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Whatsapp Clone Chat app](https://github.com/sawmon71293/Chatserver)
 
-- 🌱 I’m currently grinding on  **Front End Stack(HTML/CSS, React)**
+- 🌱 I’m currently grinding on  **Tech stack - Tailwind CSS, React, Java and C#**
 
 - 👯 I’m looking to collaborate on 
      [Learning Management System](https://github.com/sawmon71293/LMS)
