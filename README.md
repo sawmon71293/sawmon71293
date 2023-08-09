@@ -9,15 +9,12 @@
 
 - 🔭 I’m currently working on [Whatsapp Clone Chat app](https://github.com/sawmon71293/Chatserver)
 
-- 🌱 I’m currently grinding on  **Tech stack - Tailwind CSS, React, Java and C#**
+- 🌱 I’m currently grinding on  **Tech stack -Vue.js, PHP, TailwindCSS**
 
 - 👯 I’m looking to collaborate on 
      [Learning Management System](https://github.com/sawmon71293/LMS)
 
-- 👨‍💻 All of my projects are available at 
-     [Portfolio](https://sawmon-portfolio.onrender.com/)
-
-- 💬 Ask me about **React, Vanilla JavaScript, Java and C#**
+- 💬 Ask me about **React, Vue, Java and C#, PHP**
 
 - 📫 How to reach me **sawmon71293@gmail.com**
 
