@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sawmon71293@gmail.com**
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1c6ArL2Mj3o0cgGmgpG2-oVKBKhoUcWrpugFMG4ldy6g/edit?usp=sharing)
+
 
 
 
