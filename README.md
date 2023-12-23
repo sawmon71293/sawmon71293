@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Booking APP.
 
-- 🌱 I’m currently grinding on  **Tech stack -Vue.js, React , Node, TailwindCSS**
+- 🌱 I’m currently grinding on  **Tech stack - Vue.js, React , Node, TailwindCSS**
 
 - 💬 Ask me about **React, Vue, Java and C#**
 
