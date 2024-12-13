@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Issue-tracking APP.
 
-- 🌱 I’m currently grinding on  **Tech stack - Vue.js, React , Node, TailwindCSS, NextJS**
+- 🌱 I’m currently grinding on  **Tech stack - Vue.js, React , Node, TailwindCSS, Sequelize, Docker**
 
 - 💬 Ask me about **React, Vue, Java and C#**
 
