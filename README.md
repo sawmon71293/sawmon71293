@@ -7,16 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sawmonhan" target="blank"><img src="https://img.shields.io/twitter/follow/sawmonhan?logo=twitter&style=for-the-badge" alt="sawmonhan" /></a> </p>
 
-- 🔭 I’m currently working on Issue-tracking APP.
-
-- 🌱 I’m currently grinding on  **Tech stack - Vue.js, React , Node, TailwindCSS, Sequelize, Docker**
-
-- 💬 Ask me about **React, Vue, Java and C#**
+- 🌱 I’m currently grinding on  **Tech stack - Docker, AWS**
 
 - 📫 How to reach me **sawmon71293@gmail.com**
-
-
-
 
 
 ### Blogs posts
