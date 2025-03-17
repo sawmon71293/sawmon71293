@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sawmonhan" target="blank"><img src="https://img.shields.io/twitter/follow/sawmonhan?logo=twitter&style=for-the-badge" alt="sawmonhan" /></a> </p>
 
-- 🌱 I’m currently grinding on  **Mongo DB**
+- 🌱 I’m currently grinding on  **AWS Certified Developer Course**
 
 - 📫 How to reach me **sawmon71293@gmail.com**
 
